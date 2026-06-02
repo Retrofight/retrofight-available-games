@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Street Fighter 2 - World Warrior",
+        "roms": "sf2"
+    },
+    {
+        "name": "Street Fighter 2 - Champion Edition",
+        "roms": "sf2ce"
+    },
+    {
+        "name": "The king of fighters '94",
+        "roms": "kof94"
+    },
+    {
+        "name": "The king of fighters '95",
+        "roms": "kof95"
+    },
+    {
+        "name": "The king of fighters '96",
+        "roms": "kof96"
+    },
+    {
+        "name": "The king of fighters '97",
+        "roms": "kof97"
+    },
+    {
+        "name": "The king of fighters '98",
+        "roms": "kof98"
+    },
+    {
+        "name": "The king of fighters '99",
+        "roms": "kof99"
+    },
+    {
+        "name": "The king of fighter 2000",
+        "roms": "kof2000"
+    },
+    {
+        "name": "The king of fighter 2001",
+        "roms": "kof2001"
+    },
+    {
+        "name": "The king of fighter 2002",
+        "roms": "kof2002"
+    },
+    {
+        "name": "The king of fighter 2003",
+        "roms": "kof2003"
+    }
+]
