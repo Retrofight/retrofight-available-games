@@ -1,50 +1,98 @@
 [
     {
         "name": "Street Fighter 2 - World Warrior",
-        "roms": "sf2"
+        "roms": "sf2",
+        "title": "sf2",
+        "preview": "sf2",
+        "category": "fighting game",
+        "group": "street fighter"
     },
     {
         "name": "Street Fighter 2 - Champion Edition",
-        "roms": "sf2ce"
+        "roms": "sf2ce",
+        "title": "sf2ce",
+        "preview": "sf2ce",
+        "category": "fighting game",
+        "group": "street fighter"
     },
     {
         "name": "The king of fighters '94",
-        "roms": "kof94"
+        "roms": "kof94",
+        "title": "kof94",
+        "preview": "kof94",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighters '95",
-        "roms": "kof95"
+        "roms": "kof95",
+        "title": "kof95",
+        "preview": "kof95",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighters '96",
-        "roms": "kof96"
+        "roms": "kof96",
+        "title": "kof96",
+        "preview": "kof96",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighters '97",
-        "roms": "kof97"
+        "roms": "kof97",
+        "title": "kof97",
+        "preview": "kof97",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighters '98",
-        "roms": "kof98"
+        "roms": "kof98",
+        "title": "kof98",
+        "preview": "kof98",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighters '99",
-        "roms": "kof99"
+        "roms": "kof99",
+        "title": "kof99",
+        "preview": "kof99",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighter 2000",
-        "roms": "kof2000"
+        "roms": "kof2000",
+        "title": "kof2000",
+        "preview": "kof2000",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighter 2001",
-        "roms": "kof2001"
+        "roms": "kof2001",
+        "title": "kof2001",
+        "preview": "kof2001",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighter 2002",
-        "roms": "kof2002"
+        "roms": "kof2002",
+        "title": "kof2002",
+        "preview": "kof2002",
+        "category": "fighting game",
+        "group": "king of fighters"
     },
     {
         "name": "The king of fighter 2003",
-        "roms": "kof2003"
+        "roms": "kof2003",
+        "title": "kof2003",
+        "preview": "kof2003",
+        "category": "fighting game",
+        "group": "king of fighters"
     }
 ]
