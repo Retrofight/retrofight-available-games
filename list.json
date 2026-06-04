@@ -5,7 +5,9 @@
         "title": "sf2",
         "preview": "sf2",
         "category": "fighting game",
-        "group": "street fighter"
+        "group": "street fighter",
+        "ranked": true,
+        "detector": "sf2"
     },
     {
         "name": "Street Fighter 2 - Champion Edition",
@@ -13,7 +15,9 @@
         "title": "sf2ce",
         "preview": "sf2ce",
         "category": "fighting game",
-        "group": "street fighter"
+        "group": "street fighter",
+        "ranked": true,
+        "detector": "sf2ce"
     },
     {
         "name": "The king of fighters '94",
@@ -21,7 +25,9 @@
         "title": "kof94",
         "preview": "kof94",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof94"
     },
     {
         "name": "The king of fighters '95",
@@ -29,7 +35,9 @@
         "title": "kof95",
         "preview": "kof95",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof95"
     },
     {
         "name": "The king of fighters '96",
@@ -37,7 +45,9 @@
         "title": "kof96",
         "preview": "kof96",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof96"
     },
     {
         "name": "The king of fighters '97",
@@ -45,7 +55,9 @@
         "title": "kof97",
         "preview": "kof97",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof97"
     },
     {
         "name": "The king of fighters '98",
@@ -53,7 +65,9 @@
         "title": "kof98",
         "preview": "kof98",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof98"
     },
     {
         "name": "The king of fighters '99",
@@ -61,7 +75,9 @@
         "title": "kof99",
         "preview": "kof99",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof99"
     },
     {
         "name": "The king of fighter 2000",
@@ -69,7 +85,9 @@
         "title": "kof2000",
         "preview": "kof2000",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof2000"
     },
     {
         "name": "The king of fighter 2001",
@@ -77,7 +95,9 @@
         "title": "kof2001",
         "preview": "kof2001",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof2001"
     },
     {
         "name": "The king of fighter 2002",
@@ -85,7 +105,9 @@
         "title": "kof2002",
         "preview": "kof2002",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof2002"
     },
     {
         "name": "The king of fighter 2003",
@@ -93,6 +115,8 @@
         "title": "kof2003",
         "preview": "kof2003",
         "category": "fighting game",
-        "group": "king of fighters"
+        "group": "king of fighters",
+        "ranked": true,
+        "detector": "kof2003"
     }
 ]
