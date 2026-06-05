@@ -118,5 +118,65 @@
         "group": "king of fighters",
         "ranked": true,
         "detector": "kof2003"
+    },
+    {
+        "name": "Metal Slug",
+        "roms": "mslug",
+        "title": "mslug",
+        "preview": "mslug",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslug"
+    },
+    {
+        "name": "Metal Slug 2",
+        "roms": "mslug2",
+        "title": "mslug2",
+        "preview": "mslug2",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslug2"
+    },
+    {
+        "name": "Metal Slug 3",
+        "roms": "mslug3",
+        "title": "mslug3",
+        "preview": "mslug3",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslug3"
+    },
+    {
+        "name": "Metal Slug 4",
+        "roms": "mslug4",
+        "title": "mslug4",
+        "preview": "mslug4",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslug4"
+    },
+    {
+        "name": "Metal Slug 5",
+        "roms": "mslug5",
+        "title": "mslug5",
+        "preview": "mslug5",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslug5"
+    },
+    {
+        "name": "Metal Slug X",
+        "roms": "mslugx",
+        "title": "mslugx",
+        "preview": "mslugx",
+        "category": "shoot 'em up",
+        "group": "metal slug",
+        "ranked": false,
+        "detector": "mslugx"
     }
 ]
