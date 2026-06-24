@@ -258,5 +258,15 @@
         "group": "magical drop",
         "ranked": true,
         "detector": "magdrop3"
+    },
+    {
+        "name": "Cadillacs and Dinosaurs",
+        "roms": "dino",
+        "title": "dino",
+        "preview": "dino",
+        "category": "beat 'em up",
+        "group": "",
+        "ranked": true,
+        "detector": "dino"
     }
 ]
