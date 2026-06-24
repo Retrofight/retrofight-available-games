@@ -268,5 +268,35 @@
         "group": "",
         "ranked": true,
         "detector": "dino"
+    },
+    {
+        "name": "Puzzle Bobble",
+        "roms": "bublbobl",
+        "title": "bublbobl",
+        "preview": "bublbobl",
+        "category": "platform",
+        "group": "",
+        "ranked": false,
+        "detector": ""
+    },
+    {
+        "name": "Snow Bros",
+        "roms": "snowbros",
+        "title": "snowbros",
+        "preview": "snowbros",
+        "category": "platform",
+        "group": "",
+        "ranked": false,
+        "detector": ""
+    },
+    {
+        "name": "Legend of hero tonma",
+        "roms": "loht",
+        "title": "loht",
+        "preview": "loht",
+        "category": "platform",
+        "group": "",
+        "ranked": false,
+        "detector": ""
     }
 ]
