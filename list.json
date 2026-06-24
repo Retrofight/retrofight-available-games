@@ -185,7 +185,7 @@
         "title": "pbobble",
         "preview": "pbobble",
         "category": "puzzle game",
-        "group": "puzzle bobble",
+        "group": "",
         "ranked": true,
         "detector": "pbobble"
     },
@@ -195,7 +195,7 @@
         "title": "ffight",
         "preview": "ffight",
         "category": "beat 'em up",
-        "group": "final fight",
+        "group": "",
         "ranked": false,
         "detector": ""
     },
@@ -205,7 +205,7 @@
         "title": "wjammers",
         "preview": "wjammers",
         "category": "sports game",
-        "group": "windjammers",
+        "group": "",
         "ranked": true,
         "detector": "wjammers"
     },
@@ -225,7 +225,7 @@
         "title": "twinspri",
         "preview": "twinspri",
         "category": "shoot 'em up",
-        "group": "twinkle star sprites",
+        "group": "",
         "ranked": true,
         "detector": "twinspri"
     },
@@ -235,7 +235,7 @@
         "title": "magdrop",
         "preview": "magdrop",
         "category": "puzzle game",
-        "group": "magical drop",
+        "group": "",
         "ranked": false,
         "detector": ""
     },
@@ -245,7 +245,7 @@
         "title": "magdrop2",
         "preview": "magdrop2",
         "category": "puzzle game",
-        "group": "magical drop",
+        "group": "",
         "ranked": true,
         "detector": "magdrop2"
     },
@@ -255,7 +255,7 @@
         "title": "magdrop3",
         "preview": "magdrop3",
         "category": "puzzle game",
-        "group": "magical drop",
+        "group": "",
         "ranked": true,
         "detector": "magdrop3"
     },
