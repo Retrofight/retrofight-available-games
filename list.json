@@ -178,5 +178,85 @@
         "group": "metal slug",
         "ranked": false,
         "detector": "mslugx"
+    },
+    {
+        "name": "Puzzle Bobble",
+        "roms": "pbobble",
+        "title": "pbobble",
+        "preview": "pbobble",
+        "category": "puzzle game",
+        "group": "puzzle bobble",
+        "ranked": true,
+        "detector": "pbobble"
+    },
+    {
+        "name": "Final Fight",
+        "roms": "ffight",
+        "title": "ffight",
+        "preview": "ffight",
+        "category": "beat 'em up",
+        "group": "final fight",
+        "ranked": false,
+        "detector": ""
+    },
+    {
+        "name": "Windjammers",
+        "roms": "wjammers",
+        "title": "wjammers",
+        "preview": "wjammers",
+        "category": "sports game",
+        "group": "windjammers",
+        "ranked": true,
+        "detector": "wjammers"
+    },
+    {
+        "name": "Neo Turf Masters",
+        "roms": "turfmast",
+        "title": "turfmast",
+        "preview": "turfmast",
+        "category": "sports game",
+        "group": "neo turf masters",
+        "ranked": false,
+        "detector": ""
+    },
+    {
+        "name": "Twinkle Star Sprites",
+        "roms": "twinspri",
+        "title": "twinspri",
+        "preview": "twinspri",
+        "category": "shoot 'em up",
+        "group": "twinkle star sprites",
+        "ranked": true,
+        "detector": "twinspri"
+    },
+    {
+        "name": "Magical Drop",
+        "roms": "magdrop",
+        "title": "magdrop",
+        "preview": "magdrop",
+        "category": "puzzle game",
+        "group": "magical drop",
+        "ranked": false,
+        "detector": ""
+    },
+    {
+        "name": "Magical Drop 2",
+        "roms": "magdrop2",
+        "title": "magdrop2",
+        "preview": "magdrop2",
+        "category": "puzzle game",
+        "group": "magical drop",
+        "ranked": true,
+        "detector": "magdrop2"
+    },
+    {
+        "name": "Magical Drop 3",
+        "roms": "magdrop3",
+        "title": "magdrop3",
+        "preview": "magdrop3",
+        "category": "puzzle game",
+        "group": "magical drop",
+        "ranked": true,
+        "detector": "magdrop3"
     }
 ]
